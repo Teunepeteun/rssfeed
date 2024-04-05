@@ -1,35 +1,35 @@
 <!--  Generated on Fri, 05 Apr 2024 15:52:23 +0100  -->
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<atom:link href="https://steamcommunity.com/groups/vockoolkidsklub" rel="self" type="application/rss+xml"/>
-<title>VOC Kool kids klub RSS Feed</title>
-<link>
-<![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub ]]>
-</link>
-<description>
-<![CDATA[ Events and Announcements for VOC Kool kids klub ]]>
-</description>
-<language>en-us</language>
-<generator>Steam Community RSS</generator>
-<item>
-<title>Edgen in de klas</title>
-<description>Sam is hier heel goed in</description>
-<link>
-<![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4150700931634472350 ]]>
-</link>
-<pubDate>Wed, 28 Feb 2024 15:29:06 +0000</pubDate>
-<author>Teunepeteun</author>
-<guid isPermaLink="true">https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4150700931634472350</guid>
-</item>
-<item>
-<title>Imagine</title>
-<description>Imagine</description>
-<link>
-<![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4176595993587803862 ]]>
-</link>
-<pubDate>Mon, 26 Feb 2024 17:53:38 +0000</pubDate>
-<author>Teunepeteun</author>
-<guid isPermaLink="true">https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4176595993587803862</guid>
-</item>
-</channel>
+  <channel>
+    <atom:link href="https://steamcommunity.com/groups/vockoolkidsklub" rel="self" type="application/rss+xml"/>
+    <title>VOC Kool kids klub RSS Feed</title>
+    <link>
+      <![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub ]]>
+    </link>
+  <description>
+    <![CDATA[ Events and Announcements for VOC Kool kids klub ]]>
+  </description>
+  <language>en-us</language>
+  <generator>Steam Community RSS</generator>
+  <item>
+    <title>Edgen in de klas</title>
+    <description>Sam is hier heel goed in</description>
+    <link>
+      <![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4150700931634472350 ]]>
+    </link>
+    <pubDate>Wed, 28 Feb 2024 15:29:06 +0000</pubDate>
+    <author>Teunepeteun</author>
+    <guid isPermaLink="true">https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4150700931634472350</guid>
+  </item>
+  <item>
+    <title>Imagine</title>
+    <description>Imagine</description>
+    <link>
+      <![CDATA[ https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4176595993587803862 ]]>
+    </link>
+    <pubDate>Mon, 26 Feb 2024 17:53:38 +0000</pubDate>
+    <author>Teunepeteun</author>
+    <guid isPermaLink="true">https://steamcommunity.com/groups/vockoolkidsklub/announcements/detail/4176595993587803862</guid>
+  </item>
+  </channel>
 </rss>
